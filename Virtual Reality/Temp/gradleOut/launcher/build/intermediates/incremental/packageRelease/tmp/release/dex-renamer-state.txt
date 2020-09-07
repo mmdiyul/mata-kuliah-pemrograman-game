@@ -1,0 +1,4 @@
+#Mon Aug 31 12:02:17 WIB 2020
+base.0=/home/mmdiyul/Project/unity/Virtual Reality/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
